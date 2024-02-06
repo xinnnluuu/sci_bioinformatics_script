@@ -1,3 +1,8 @@
+###
+#    extract labeled reads containing T>C mutation
+#    this script is wrote for AMUC-seq
+###
+
 import sys
 import re
 
