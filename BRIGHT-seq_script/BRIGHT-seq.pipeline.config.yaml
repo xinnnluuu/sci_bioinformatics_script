@@ -1,0 +1,62 @@
+samples:
+ - DE-EXT-0831-18
+ - DE-EXT-0831-42
+ - DE-IN-0831-3
+ - DE-IN-0831-4
+ - DE-PK-EXT-0831-25
+ - DE-PK-EXT-0831-29
+ipsamples:
+ - DE-EXT-0831-18
+ - DE-EXT-0831-42
+ - DE-PK-EXT-0831-25
+ - DE-PK-EXT-0831-29
+ipsample_group1:
+ - DE-EXT-0831-18
+ - DE-EXT-0831-42
+ipsample_group2:
+ - DE-PK-EXT-0831-25
+ - DE-PK-EXT-0831-29
+insamples:
+ - DE-IN-0831-3
+ - DE-IN-0831-4
+emsamples:
+ - DE-EM-0831-1
+ - DE-EM-0831-2
+refs:
+ - chr1
+ - chr2
+ - chr3
+ - chr4
+ - chr5
+ - chr6
+ - chr7
+ - chr8
+ - chr9
+ - chr10
+ - chr11
+ - chr12
+ - chr13
+ - chr14
+ - chr15
+ - chr16
+ - chr17
+ - chr18
+ - chr19
+ - chr20
+ - chr21
+ - chr22
+ - chrX
+ - chrY
+ - chrM
+ori:
+ - F1-R2
+ - R1-F2
+muttype:
+ - CtoT
+ - CtoA
+myref:
+ - 116-mChmC
+ - lambda
+datadir: /zhouxiang/luziang/seqdata
+outdir: /zhouxiang/luziang/workdir
+refdir: /home/reference
