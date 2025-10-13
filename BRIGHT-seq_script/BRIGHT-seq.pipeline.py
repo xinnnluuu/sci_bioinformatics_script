@@ -5,8 +5,8 @@
 # Description: Comprehensive pipeline for RNA editing and methylation analysis
 #              Processes paired-end sequencing data through QC, alignment,
 #              deduplication, and variant calling with strand-specific analysis
-# Author: [Your Name]
-# Date: [Date]
+# Author: Ziang Lu
+# Date: 2025.10.13
 ################################################################################
 
 # Load configuration file
